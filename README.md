@@ -7,7 +7,7 @@ This repository contains my internship task for designing a modern and professio
 - **PNG Preview:** `ApexcifyTechnologys_logo_design_task.png`
 
 ## 🖼️ Logo Preview  
-![Logo Preview](ApexcifyTechnologys_logo_design_task.png)
+![Logo Preview](APEXCIFY TECHNOLOGY TASK.jpg)
 ## 🎨 Design Details
 - **Software Used:** Adobe Illustrator  
 - **Theme:** Modern & Professional  
