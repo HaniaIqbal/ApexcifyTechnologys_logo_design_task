@@ -7,7 +7,7 @@ This repository contains my internship task for designing a modern and professio
 - **JPG Preview:** `APEXCIFY TECHNOLOGY TASK.jpg`
 
 ## 🖼️ Logo Preview
-![Logo Preview](APEXCIFYTECHNOLOGYTASk.jpg)
+![Logo Preview](APEXCIFY TECHNOLOGY TASk.jpg)
 
 ## 🎨 Design Details
 - **Software Used:** Adobe Illustrator  
